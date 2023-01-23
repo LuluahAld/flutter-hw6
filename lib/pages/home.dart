@@ -104,7 +104,7 @@ class Home extends StatelessWidget {
                           child: Stack(
                             children: const [
                               CircleAvatar(
-                                backgroundImage: NetworkImage('https://picsum.photos/22/237/200/300'),
+                                backgroundImage: NetworkImage('https://picsum.photos/id/58/200/300'),
                                 radius: 20,
                               ),
                               Positioned(
